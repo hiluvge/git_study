@@ -15,5 +15,6 @@ public class Main {
         System.out.println("나 g야");
         System.out.println("나 H브랜치야");
         System.out.println("나 I야");
+        System.out.println("나 J브랜치야");
     }
 }
