@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println("나 팀장이야~");
         System.out.println("난 C야");
+        System.out.println("나 d브랜치야~");
     }
 }
